@@ -40,3 +40,8 @@ Esto convertira 200 minutos a horas dividiendo por 60
 - Lenguajes populares
 - Aritméticas
 - Herramientas
+
+
+## Autor
+
+Marcos Morales
