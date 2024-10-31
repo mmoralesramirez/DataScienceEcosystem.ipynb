@@ -14,8 +14,9 @@ Algunas de las bibliotecas comúnmente utilizadas por los cientificos de datos i
 2. Pandas
 3. Tensorflow
 
-| Herramientas de Ciencia de Datos |
-| Jypiter Notebook                 |
-| Apache Spark                     |
-| IBM SPSS                         |
+| ID  | Herramientas de Ciencia de Datos |
+|---- | ---------------------------------|
+| 001 |        Jupyter Notebook          |
+| 002 |         Apache Spark             |
+| 003 |           IBM SPSS               |
 
