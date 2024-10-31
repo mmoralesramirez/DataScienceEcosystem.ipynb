@@ -24,12 +24,7 @@ Algunas de las bibliotecas comúnmente utilizadas por los cientificos de datos i
 ### A continuación se presentan algunos ejemplos de evaluación de expresiones aritméticas en Python
 
 Esta es una expresión aritmética simple para multiplicar y luego sumar enteros 
-
-num1=3
-num2=4
-num3=5
-(num1+num2)*num3
-print
-
+(3*4)+5
+17
 
 
