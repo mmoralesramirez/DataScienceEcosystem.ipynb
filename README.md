@@ -25,7 +25,7 @@ Algunas de las bibliotecas comúnmente utilizadas por los cientificos de datos i
 
 Esta es una expresión aritmética simple para multiplicar y luego sumar enteros 
 
-$\3*4$
+$(3*4)+5$
 
 
 
