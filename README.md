@@ -34,3 +34,9 @@ Esto convertira 200 minutos a horas dividiendo por 60
 200 / 60
 
 3.33333333335
+
+# <b> Objetivos <b>
+
+Lenguajes populares
+Aritméticas
+Herramientas
